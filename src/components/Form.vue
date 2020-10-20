@@ -75,7 +75,7 @@
 </template>
 
 <script>
-var url = "http://localhost/vue-login-signup-ui-master/db/backend.php";
+var url = "http://localhost/vueform/db/backend.php";
 import axios from "axios";
 
 export default {
